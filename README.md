@@ -33,6 +33,8 @@
 ### 📩 Связь со мной :
 - telegram: @Vanarti
 - email: vanarty@yandex.ru
+- kaggle: https://www.kaggle.com/artemivanovurevich
+
 ---
 
 ### :fire: Моя статистика на github :
