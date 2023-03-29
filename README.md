@@ -8,7 +8,7 @@
   Добро пожаловать на мою страничку!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
-:man_technologist: Обо мне : Меня зовут Иванов Артём. Ведущий инжненер. Окончил УГТУ по направлению "Бурение нефтяных и газовых скважин". Практически всё свое свободное время посвящаю семье и изучению Data Science. С июня 2022 года учусь в яндекс-практикуме по направлению Data Scientist Plus. Хочу сменить сферу своей деятельности и уйти 'с головой' в аналитику и ML. Увлечён применением ML в бизнес-задачах, а так же медицине. Стараюсь учавствовать в интересных Kaggle-соревнованиях. Еще со школы увлекался математикой, физикой и программированием и до сих пор продолжаю изучать разные направления прикладной математики. Так же увлекаюсь написанием музыки, фотографией, починкой электроники.
+:man_technologist: Обо мне : Меня зовут Иванов Артём. Ведущий инжненер. Окончил УГТУ по направлению "Бурение нефтяных и газовых скважин". Практически всё свое свободное время посвящаю семье и изучению Data Science. С июня 2022 года учусь в яндекс-практикуме по направлению Data Scientist Plus. Хочу сменить сферу своей деятельности и уйти 'с головой' в аналитику и ML. Увлечён применением ML в бизнес-задачах, а так же медицине. Стараюсь участвовать в интересных Kaggle-соревнованиях. Еще со школы увлекался математикой, физикой и программированием и до сих пор продолжаю изучать разные направления прикладной математики. Так же увлекаюсь написанием музыки, фотографией, починкой электроники.
 
 ---
 
@@ -17,7 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"  title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
