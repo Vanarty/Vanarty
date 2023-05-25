@@ -38,9 +38,9 @@
 
 ---
 ## Сертификаты об обучении:
-- [Основы статистики. 1-ый модуль](https://github.com/Vanarty/IvanovAU_Certificate_Karpov_Stats_1.pdf)
-- [Основы статистики. 2-ой модуль](https://github.com/Vanarty/IvanovAU_Certificate_Karpov_Stats_2.pdf)
-- [Основы статистики. 3-ий модуль](https://github.com/Vanarty/IvanovAU_Certificate_Karpov_Stats_3.pdf)
+- [Основы статистики. 1-ый модуль](https://github.com/Vanarty/Vanarty/blob/main/IvanovAU_Certificate_Karpov_Stats_1.pdf)
+- [Основы статистики. 2-ой модуль](https://github.com/Vanarty/Vanarty/blob/main/IvanovAU_Certificate_Karpov_Stats_2.pdf)
+- [Основы статистики. 3-ий модуль](https://github.com/Vanarty/Vanarty/blob/main/IvanovAU_Certificate_Karpov_Stats_3.pdf)
 ---
 
 ### :fire: Моя статистика на github :
