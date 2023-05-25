@@ -4,10 +4,10 @@
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=Vanarty&style=flat-square&color=blue" alt=""/>
 </div>
-<h2 align="center">
+<h1 align="center">
   Добро пожаловать на мою страничку!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
+</h1>
 :man_technologist: Обо мне : Меня зовут Иванов Артём. Имею высшее образование (УГТУ, специальность - ведущий инженер, диплом с отличием). Сильно увлечен программированием, Data Science, ML. С июня 2022 года учусь в яндекс-практикуме по направлению Data Scientist Plus. Так же с отличием прошёл курсы по статистике на Stepik. Увлечён применением ML в бизнес-задачах, а так же медицине. Стараюсь участвовать в интересных Kaggle-соревнованиях. Еще со школы увлекался изучением математики, физики и программирования и до сих пор продолжаю учится и применять знания на практике. 
 
 ---
@@ -37,10 +37,10 @@
 - kaggle: https://www.kaggle.com/artemivanovurevich
 
 ---
-<h3 align="left">
-  Сертификаты об обучении:
-</h3>
-[1. Основы статистики. 1- ый модуль.](https://github.com/Vanarty/IvanovAU_Certificate_Karpov_Stats_1.pdf)
+## Сертификаты об обучении:
+- [Основы статистики. 1-ый модуль](https://github.com/Vanarty/IvanovAU_Certificate_Karpov_Stats_1.pdf)
+- [Основы статистики. 2-ой модуль](https://github.com/Vanarty/IvanovAU_Certificate_Karpov_Stats_2.pdf)
+- [Основы статистики. 3-ий модуль](https://github.com/Vanarty/IvanovAU_Certificate_Karpov_Stats_3.pdf)
 ---
 
 ### :fire: Моя статистика на github :
