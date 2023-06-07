@@ -8,7 +8,7 @@
   Добро пожаловать на мою страничку!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-:man_technologist: Обо мне : Меня зовут Иванов Артём. Имею высшее образование (УГТУ, специальность - ведущий инженер, диплом с отличием). Сильно увлечен программированием, Data Science, ML. С июня 2022 года учусь в яндекс-практикуме по направлению Data Scientist Plus. Так же с отличием прошёл курсы по статистике на Stepik. Увлечён применением ML в бизнес-задачах, а так же медицине. Стараюсь участвовать в интересных Kaggle-соревнованиях. Еще со школы увлекался изучением математики, физики и программирования и до сих пор продолжаю учится и применять знания на практике. Ниже можно ознакомится с моими заврешенными проектами.
+:man_technologist: Обо мне : Меня зовут Иванов Артём. Имею высшее образование (УГТУ, специальность - ведущий инженер, диплом с отличием). Сильно увлечен программированием, Data Science, ML. С июня 2022 года учусь в яндекс-практикуме по направлению Data Scientist Plus. Так же с отличием прошёл курсы по статистике на Stepik. Увлечён применением ML в бизнес-задачах, а так же медицине. Стараюсь участвовать в интересных Kaggle-соревнованиях. Еще со школы увлекался изучением математики, физики и программирования и до сих пор продолжаю учится и применять знания на практике. Ниже можно ознакомится с моими завершенными проектами.
 
 ---
 
@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"  title="Pycharm" alt="Pycharm" height="40"/>&nbsp;
   <img src="https://github.com/Vanarty/Vanarty/blob/main/Spark_logo.png" title="PySpark" alt="PySpark" height="40"/>&nbsp;
