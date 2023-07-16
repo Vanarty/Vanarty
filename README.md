@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </div>
 
 ---
@@ -64,13 +64,13 @@
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/Vanarty/Heart-diseases-prediction-kaggle-">Pet - projects. Предсказание сердечно-сосудистых заболеваний</a></td>
+  <td><a href = "https://github.com/Vanarty/Heart-diseases-prediction-kaggle-">Pet - project. Предсказание сердечно-сосудистых заболеваний</a></td>
   <td>На основе Streamlit было создано приложение для пользователей, которое основываясь на лучшей модели XGBClassifier предсказывает вероятность (риск) наличия сердечно-сосудистых заболеваний.</td>
   <td>Завершен</td>
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/Vanarty/English_films_level_NLP">Pet - projects. Предсказание уровня английского по субтитрам фильма (NLP)</a></td>
+  <td><a href = "https://github.com/Vanarty/English_films_level_NLP">Pet - project. Предсказание уровня английского по субтитрам фильма (NLP)</a></td>
   <td>Запрос сформирован тем, что просмотр фильмов на оригинальном языке - это популярный и действенный метод упражнений по изучению иностранных языков. Важно выбрать фильм, который подходит студенту по уровню сложности, т.е. студент понимал 50-70 % диалогов. Чтобы выполнить это условие, преподаватель должен посмотреть фильм и решить, какому уровню он соответствует. Однако это требует больших временных затрат.</td>
   <td>Завершен</td>
 </tr>
