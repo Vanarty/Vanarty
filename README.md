@@ -37,6 +37,10 @@
 - kaggle: https://www.kaggle.com/artemivanovurevich
 
 ---
+## Диплом об обучении по специальности Data Science Plus:
+- [Data Science Plus (630 часов)](https://github.com/Vanarty/Vanarty/blob/main/Иванов%20Артём%20Юрьевич_20232DSP00108.pdf)
+---
+---
 ## Сертификаты об обучении:
 - [Основы статистики. 1-ый модуль](https://github.com/Vanarty/Vanarty/blob/main/IvanovAU_Certificate_Karpov_Stats_1.pdf)
 - [Основы статистики. 2-ой модуль](https://github.com/Vanarty/Vanarty/blob/main/IvanovAU_Certificate_Karpov_Stats_2.pdf)
