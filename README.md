@@ -45,6 +45,8 @@
 - [Основы статистики. 1-ый модуль](https://github.com/Vanarty/Vanarty/blob/main/IvanovAU_Certificate_Karpov_Stats_1.pdf)
 - [Основы статистики. 2-ой модуль](https://github.com/Vanarty/Vanarty/blob/main/IvanovAU_Certificate_Karpov_Stats_2.pdf)
 - [Основы статистики. 3-ий модуль](https://github.com/Vanarty/Vanarty/blob/main/IvanovAU_Certificate_Karpov_Stats_3.pdf)
+- [Объектно-ориентированное программирование на Python](https://github.com/Vanarty/Vanarty/blob/main/Сертификат%20ООП%20Python.png)
+- [Регулярные выражения](https://github.com/Vanarty/Vanarty/blob/main/Сертификат%20-%20Регулярные%20выражения.png)
 ---
 
 ### :fire: Моя статистика на github :
