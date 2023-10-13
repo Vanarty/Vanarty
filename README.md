@@ -9,6 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 :man_technologist: Обо мне : 
+
 Образование:
 1) Имею высшее образование (УГТУ, специальность - инженер, диплом с отличием). 
 2) Прошел обучение в Яндек-Практикум по направлению Data Scientist Plus (630 часов). 
