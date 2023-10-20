@@ -72,19 +72,15 @@
 
 ---
 
-<details open>
-  <summary>Список моих проектов</summary>
+<summary>Список моих проектов</summary>
+
+## Pet-проекты
+
 <table>
 <tr>
   <th>Название</th>
   <th>Описание</th>
   <th>Статус проектов</th>
-</tr> 
-  
-<tr>
-  <td><a href = "https://github.com/Vanarty/Yandex-Projects">Яндекс.Практикум</a></td>
-  <td>Проекты, выполненные в рамках обучения по специальности Data Scientist Plus</td>
-  <td>Пополняется проектами</td>
 </tr>
 
 <tr>
@@ -100,4 +96,20 @@
 </tr>
 
 </table>
-</details>
+
+## Проекты Yandex-Practicum
+
+<table>
+<tr>
+  <th>Название</th>
+  <th>Описание</th>
+  <th>Статус проектов</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/Vanarty/Yandex-Projects">Яндекс - Практикум</a></td>
+  <td>Проекты, выполненные в рамках обучения по специальности Data Scientist Plus</td>
+  <td>17 завершенных проектов</td>
+</tr>
+
+</table>
